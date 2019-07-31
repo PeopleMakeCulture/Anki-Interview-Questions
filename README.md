@@ -31,4 +31,9 @@ To collaborate on these decks:
 - Review existing cards in a deck before adding new cards
 - Try to keep decks short (<=50 cards)
 
+## How to add formatted code to cards
+1. Write the code out in your preferred text editor.
+2. Make sure that the language setting is properly set.
+3. Click on the lightning symbol. This will paste whatever you have copied into the card but with the proper formatting. Please note that editting the code directly in the card may lead to improper formatting.
+
 Developed by Fullstack Academy of Code | Grace Hopper Program 2019 Teaching Fellows
